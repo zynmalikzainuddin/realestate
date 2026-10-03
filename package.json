@@ -1,0 +1,1 @@
+{"name":"pentora-calicut-sandalwood","private":true,"type":"module","scripts":{"start":"node server.mjs","build":"rm -rf dist && mkdir -p dist && cp index.html styles.css script.js manus-routes.json favicon.svg robots.txt sitemap.xml dist/ && echo 'Static site ready in dist/'"}}
