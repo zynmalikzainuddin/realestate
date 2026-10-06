@@ -25,7 +25,7 @@ Replace every image marked with `data-placeholder="replace-with-project-photo"` 
 - All testimonial names, quotes and permissions.
 - Final map coordinates/embed and approved brochure PDF endpoint.
 - Connect the enquiry form to an approved CRM, email or WhatsApp workflow.
-- Replace `your-domain.example` in `index.html`, `robots.txt` and `sitemap.xml` with the final approved HTTPS domain.
+- Replace `pentoracalicut.com` in `index.html`, `robots.txt` and `sitemap.xml` with the final approved HTTPS domain.
 
 ## Compliance note
 
